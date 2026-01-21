@@ -1,0 +1,4 @@
+PINECONE_API_KEY = "YOUR_PINECONE_API_KEY"
+PINECONE_ENV = "YOUR_ENVIRONMENT"
+INDEX_NAME = "jarvis-knowledge"
+LLAMA_MODEL = "meta-llama/Llama-2-7b-chat-hf"
