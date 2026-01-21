@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+streamlit
+pinecone-client
+sentence-transformers
+transformers
+torch
+langchain
